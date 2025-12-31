@@ -33,7 +33,7 @@ My focus is always on **real-world impact**, not just research demos.
 
 ---
 
-## 🧠 AI & ML Core Expertise (ATS Optimized)
+## 🧠 AI & ML Core Expertise
 
 **Machine Learning**
 - Supervised & Unsupervised Learning
